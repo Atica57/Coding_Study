@@ -14,3 +14,6 @@
 
 <<유튜브>>
 - 
+
+<<기타 도움글>>
+- 백준 질문란 :: https://www.acmicpc.net/board/view/3261
